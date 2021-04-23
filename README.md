@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @di2mot
+ 👋 Hi, I’m @di2mot
+
 Now I work as a chemist, but in my spare time I'm into Python and Arduino
 
 
